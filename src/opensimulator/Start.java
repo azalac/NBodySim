@@ -21,7 +21,7 @@ import opensimulator.physics.forces.MassAccelerationFunction;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class Start {
 

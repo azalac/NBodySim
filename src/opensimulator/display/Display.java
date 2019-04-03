@@ -10,7 +10,7 @@ import opensimulator.rendering.GraphicsProvider;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public interface Display {
     

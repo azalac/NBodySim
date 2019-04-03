@@ -9,7 +9,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public interface GraphicsProvider {
     

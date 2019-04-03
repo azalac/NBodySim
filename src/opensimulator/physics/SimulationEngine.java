@@ -7,7 +7,7 @@ package opensimulator.physics;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public interface SimulationEngine {
     

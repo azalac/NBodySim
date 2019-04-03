@@ -16,7 +16,7 @@ import opensimulator.physics.forces.Force;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class Simulator implements SimulationEngine {
 

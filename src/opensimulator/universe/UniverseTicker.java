@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class UniverseTicker {
 

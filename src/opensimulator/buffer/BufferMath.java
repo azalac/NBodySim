@@ -7,7 +7,7 @@ package opensimulator.buffer;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public final class BufferMath {
 

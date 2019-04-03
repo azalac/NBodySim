@@ -12,7 +12,7 @@ import sun.misc.Unsafe;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class UnsafeDoubleBuffer extends DoubleBuffer {
 

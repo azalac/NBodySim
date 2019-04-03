@@ -9,7 +9,7 @@ import opensimulator.universe.Universe;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class CenteredW2STranslation extends WorldToScreenTranslation{
     

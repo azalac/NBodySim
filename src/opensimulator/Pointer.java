@@ -7,7 +7,7 @@ package opensimulator;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class Pointer<T> {
     

@@ -13,7 +13,7 @@ import static opensimulator.universe.Universe.N_DIMENSIONS;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class SimulationRenderer {
 

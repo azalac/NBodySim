@@ -10,7 +10,7 @@ import java.awt.image.BufferStrategy;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class BufferStrategyGraphicsProvider implements GraphicsProvider {
 

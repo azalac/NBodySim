@@ -9,7 +9,7 @@ import opensimulator.buffer.DoubleBuffer;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class Universe {
     

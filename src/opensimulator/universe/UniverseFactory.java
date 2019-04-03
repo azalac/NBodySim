@@ -7,7 +7,7 @@ package opensimulator.universe;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public class UniverseFactory {
     

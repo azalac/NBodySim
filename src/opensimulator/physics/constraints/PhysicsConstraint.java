@@ -10,7 +10,7 @@ import opensimulator.universe.Universe;
 
 /**
  *
- * @author memca
+ * @author azalac
  */
 public interface PhysicsConstraint {
     
